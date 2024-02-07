@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 always a student
 ----------------
 
-* 🌍  I'm based in Florence
-* 🖥️  See my portfolio at [(placeholder)](http://placeholder)
+* 🌍  I'm based in Florence/Decatur
 * ✉️  You can contact me at [raideng002@gmail.com](mailto:raideng002@gmail.com)
 * 🧠  I'm learning Java
 * ⚡  early stages of learning Japanese, knowledge in networking
