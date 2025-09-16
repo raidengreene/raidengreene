@@ -6,8 +6,8 @@ always a student
 
 * 🌍  I'm based in Florence/Decatur
 * ✉️  You can contact me at [raideng002@gmail.com](mailto:raideng002@gmail.com)
-* 🧠  I'm learning Java
-* ⚡  early stages of learning Japanese, knowledge in networking and security
+* 🧠  I'm learning a little bit of software development
+* ⚡  Knowledge in networking, security, cabling, and databases
 
 ### Skills
 
